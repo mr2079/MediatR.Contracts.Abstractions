@@ -1,6 +1,9 @@
-# MediatR Contracts Abstractions
+# MediatR.Contracts.Abstractions
 
 A lightweight set of abstractions to enhance MediatR contracts and integrate with Result pattern for better error handling and response consistency.
+
+## NuGet Package
+[MediatR.Contracts.Abstractions](https://www.nuget.org/packages/MediatR.Contracts.Abstractions/)
 
 ## Installation
 
